@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "777209875914",
+    "project_id": "itask-d2ed2",
+    "storage_bucket": "itask-d2ed2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777209875914:android:1bbcd3312508ca94541333",
+        "android_client_info": {
+          "package_name": "com.example.itask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777209875914-opgnqkv7qpql9dmuck3le8o15o7h09gu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.itask",
+            "certificate_hash": "2499a2c39cb51abcb5b1b59b24c3d6c4f1f43564"
+          }
+        },
+        {
+          "client_id": "777209875914-i9o7auqvha23tvu8krfm9qbe36mmcap4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUZ26FPpFa4XfhlvS_09Ov-NiN2lBPkYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777209875914-i9o7auqvha23tvu8krfm9qbe36mmcap4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
